@@ -45,6 +45,10 @@ h1 {
 .item3 {
   padding-top: 50px;
 }
+.item6 {
+  width: 400px;
+  padding-left: 70px;
+}
 .title {
   display: flex;
   flex-wrap: nowrap;
